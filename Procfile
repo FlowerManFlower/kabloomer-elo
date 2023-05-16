@@ -1,1 +1,1 @@
-node kabloomer-elo/index.js
+node index.js
