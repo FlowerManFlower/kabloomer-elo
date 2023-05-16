@@ -85,7 +85,7 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || ;
 
 
 client.login(process.env.DISCORD_TOKEN);
