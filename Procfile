@@ -1,1 +1,1 @@
-node flip.js
+node index.js 
