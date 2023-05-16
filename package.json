@@ -1,12 +1,16 @@
 {
   "name": "kabloomer-elo",
   "version": "1.0.0",
-  "description": "flip function",
-  "engines": {
-    "node": "19.9.0"
+  "description": "Beta Release",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "13.1.0",
     "dotenv": "16.0.3"
+  },
+  "engines": {
+    "node": "19.9.0"
   }
 }
