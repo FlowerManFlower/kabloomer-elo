@@ -87,6 +87,11 @@ client.on('messageCreate', async (message) => {
 
 const PORT = process.env.PORT || 3000;
 
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
+
+
 
 
 client.login(process.env.DISCORD_TOKEN);
