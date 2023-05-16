@@ -1,1 +1,1 @@
-node kabloomer-elo/flip.js
+node kabloomer-elo/index.js
