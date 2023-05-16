@@ -1,2 +1,2 @@
-discord.js
+discord.js==13.1.0
 dotenv
